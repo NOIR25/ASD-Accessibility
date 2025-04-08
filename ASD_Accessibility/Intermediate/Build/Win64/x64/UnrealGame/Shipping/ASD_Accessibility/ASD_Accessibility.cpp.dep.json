@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\university\\yr2\\designinnovation\\asd-accessibility\\asd_accessibility\\intermediate\\source\\asd_accessibility.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\university\\yr2\\designinnovation\\asd-accessibility\\asd_accessibility\\intermediate\\build\\win64\\x64\\asd_accessibility\\shipping\\core\\sharedpch.core.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\university\\yr2\\designinnovation\\asd-accessibility\\asd_accessibility\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\asd_accessibility\\definitions.asd_accessibility.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
